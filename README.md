@@ -1,8 +1,7 @@
-<h1 align="center">
+<h1>
  Bootcamp Desenvolver Full Stack - Digital Innovation One
 </h1>
 
-------------
 
 Projeto desenvolvido durante o bootcamp da Digital Innovation One.
 
